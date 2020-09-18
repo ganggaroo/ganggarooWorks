@@ -1513,6 +1513,13 @@ section {
   line-height: 29px;
 }
 
+@media screen and (max-width: 992px) {
+  .blog .entry .entry-content .summary {
+    display: none;
+  }
+}
+
+
 .blog .entry .entry-summery {
   margin-bottom: 15px;
   color: black;
