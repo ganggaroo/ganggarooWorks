@@ -1460,7 +1460,7 @@ section {
 }
 
 .blog .entry .entry-img {
-  max-height: 200px;
+  max-width: 600px;
   margin:30px 30px 20px 30px;
 }
 
@@ -2146,9 +2146,9 @@ figure {
 }
 
 figcaption {
-  background-color: black;
+  background-color: #848484;
+  font-size: small;
   color: white;
-  font-style: italic;
   padding: 2px;
-  text-align: center;
+  text-align: left;
 }
