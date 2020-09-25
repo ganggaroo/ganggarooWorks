@@ -1535,6 +1535,20 @@ section {
   margin: 0;
 }
 
+.blog .entry .entry-table {
+  margin-bottom: 15px;
+  color: black;
+  line-height: 40px;
+}
+
+.blog .entry .entry-table ul {
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+  margin: 0;
+}
+
+
 
 .blog .entry .entry-content .read-more {
   -moz-text-align-last: right;
