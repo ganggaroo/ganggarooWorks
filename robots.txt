@@ -1,2 +1,2 @@
-er-agent: Yeti
+User-agent: Yeti, Googlebot
 Allow:/
